@@ -83,9 +83,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=csenguyenminhphuc&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="300" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=csenguyenminhphuc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=csenguyenminhphuc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=csenguyenminhphuc&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=csenguyenminhphuc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=csenguyenminhphuc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="100" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=csenguyenminhphuc&theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=csenguyenminhphuc&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
