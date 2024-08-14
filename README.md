@@ -1,7 +1,7 @@
 
-<a align="center" href="https://git.io/typing-svg">
-  <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=24&duration=2000&pause=1000&color=00FF24&width=440&height=40&lines=Hello+Everyone%F0%9F%91%8B+I'M+YOUR+NAME" alt="Typing SVG" />
-</a>
+<h1 align="center" href="https://git.io/typing-svg">
+  <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=24&duration=2000&pause=1000&color=00FF24&width=440&height=40&lines=Hey+There%F0%9F%91%8B+I'M+NGUYEN+MINH+PHUC" alt="Typing SVG" />
+</h1>
 
 ###
 
