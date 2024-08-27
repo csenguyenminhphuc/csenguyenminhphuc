@@ -3,9 +3,24 @@
   <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=24&duration=2000&pause=1000&color=00FF24&width=440&height=40&lines=Hey+There%F0%9F%91%8B+I'M+NGUYEN+MINH+PHUC" alt="Typing SVG" />
 </h1>
 
-<p>
-  <img src="https://tryhackme.com/badge/2987164"/>
-</p>
+
+<div id="thm_badge" class="thm_margin" onClick="location.href='https://tryhackme.com/p/csenguyenminhphuc'">
+  <div style="width: auto; border-radius: 4px; margin-right: 0px; background-color: #343c42; border-radius: 5px; text-align: left; background-image: url(https://assets.tryhackme.com/avatar/e2e676b5c59326d11669c8dd5eb46b82.jpg?s=200&d=robohash&r=x); background-size: 23px 23px; background-position: right 5px bottom 5px; background-repeat: no-repeat;">
+    <div style="margin-left: 25px; width: 220px; height: 56px; background-color: #343c42; border-radius: 5px; text-align: left; background-image: url(https://assets.tryhackme.com/img/thm_logo_only.svg); background-size: 23px 23px; background-position: right 5px bottom 5px; background-repeat: no-repeat; background-position: center center; border-radius: 5px; background-color: #343c42;">
+      <span style="font-family: 'Roboto'; font-size: 12px; font-weight: bold; color: #fff;">csenguyenminhphuc</span>
+      <br />
+      <span class="thm_rnk">[<x5]</span> <span class="thm_rnk">[0x00]</span>
+      <br />
+      <p class="thm_link" style="margin-bottom: 0px; text-decoration: none;">tryhackme.com</p>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/csenguyenminhphuc/count.svg?"  />
