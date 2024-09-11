@@ -3,7 +3,7 @@
   <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=24&duration=2000&pause=1000&color=00FF24&width=440&height=40&lines=Hey+There%F0%9F%91%8B+I'M+NGUYEN+MINH+PHUC" alt="Typing SVG" />
 </h1>
 
-<script src="https://tryhackme-badges.s3.amazonaws.com/csenguyenminhphuc.png"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/csenguyenminhphuc.png" alt="TryHackMe">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/csenguyenminhphuc/count.svg?"  />
