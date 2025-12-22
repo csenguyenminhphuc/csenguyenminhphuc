@@ -35,7 +35,7 @@
 ###
 
    <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/giphy.gif?raw=true" width="300px" alt="giphy" align="right" />
-      - 🔭 I’m a DevSecOps and infrastructure Engineer <br>
+      - 🔭 I’m a DevSecOps and Infrastructure Engineer <br>
       - 👨‍💻 Mình đang học lập trình và phát triển phần mềm <br>
       - 🚀 Mục tiêu của tôi là trở thành một Kỹ sư Khoa hoc Máy tính <br>
       - 📚 Tôi yêu học hỏi và luôn tìm cách nâng cao kỹ năng của mình <br>
