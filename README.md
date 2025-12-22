@@ -2,7 +2,7 @@
 <h1 align="center" href="https://git.io/typing-svg">
   <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=24&duration=2000&pause=1000&color=00FF24&width=440&height=40&lines=Hey+There%F0%9F%91%8B+I'M+NGUYEN+MINH+PHUC" alt="Typing SVG" />
 </h1>
-<p>
+<p align="center" >
   <img src="https://komarev.com/ghpvc/?username=csenguyenminhphuc&color=blue" alt="giphy" align="center" />
   <img src="https://img.shields.io/badge/Role-DevSecOps-red?logo=shield" alt="giphy" align="center" />
   <img src="https://img.shields.io/badge/Role-Infrastructure%20Engineer-blue?logo=linux" alt="giphy" align="center" />
