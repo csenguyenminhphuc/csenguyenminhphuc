@@ -5,14 +5,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/giphy2.gif" alt="giphy" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/csenguyenminhphuc.png" width="100%" alt="TryHackMe">
+  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/giphy2.gif"  alt="giphy" />
+  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/git.gif" height="170" alt="giphy" />
 </p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/csenguyenminhphuc.png" alt="TryHackMe">
+
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/csenguyenminhphuc/count.svg?"  />
+  
 </div>
 
 ###
@@ -29,12 +31,12 @@
 <table>
   <tr>
     <td style="vertical-align: middle; width: 70%;">
-      - 🔭 I’m a student <br>
+      - 🔭 I’m a DevSecOps and infrastructure Engineer <br>
       - Mình rất đam mê máy tính <br>
       - 👨‍💻 Đang học lập trình và phát triển phần mềm <br>
       - 🚀 Mục tiêu của tôi là trở thành một Kỹ sư Koa hoc Máy tính <br>
       - 📚 Tôi yêu học hỏi và luôn tìm cách nâng cao kỹ năng của mình <br>
-      - 🌱 Hiện tại đang tìm hiểu về trí tuệ nhân tạo (AI), học sâu (Deep Learning), Network, Cloud, NLP,....  <br>
+      - 🌱 Hiện tại đang tìm hiểu về trí tuệ nhân tạo (AI), Network, Cloud, System, Security....  <br>
       - 💡 Sở thích của tôi là khám phá công nghệ mới và xây dựng các dự án cá nhân <br>
       - 🧑‍🤝‍🧑 Thích tham gia vào các cộng đồng lập trình và chia sẻ kiến thức với mọi người <br>
       - 🎯 Mục tiêu trong năm nay là hoàn thành một số dự án mã nguồn mở và đóng góp cho cộng đồng lập trình <br>
@@ -117,10 +119,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=csenguyenminhphuc&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=csenguyenminhphuc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=csenguyenminhphuc&theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=csenguyenminhphuc&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=csenguyenminhphuc&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentagec" />
+<img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=csenguyenminhphuc&theme=github&utcOffset=7" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csenguyenminhphuc&layout=donut" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=csenguyenminhphuc&radius=16&theme=github-compact&area=true&order=5" alt="activity-graph graph"  /> 
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csenguyenminhphuc&theme=github" />
 </div>
 
 ###
