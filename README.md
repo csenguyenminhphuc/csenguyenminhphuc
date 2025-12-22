@@ -2,8 +2,10 @@
 <h1 align="center" href="https://git.io/typing-svg">
   <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=24&duration=2000&pause=1000&color=00FF24&width=440&height=40&lines=Hey+There%F0%9F%91%8B+I'M+NGUYEN+MINH+PHUC" alt="Typing SVG" />
 </h1>
+
+<img src="https://komarev.com/ghpvc/?username=csenguyenminhphuc&color=blue" alt="giphy" align="center" />
+
 <p align="center">
- 
   <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/giphy2.gif"  alt="giphy" />
   <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/git.gif" height="170" alt="giphy " />
 </p>
@@ -50,7 +52,7 @@
 
 ###
 
-  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/discord-hacking.gif" width="350px" height="250px" alt="giphy" align="right" />
+  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/discord-hacking.gif" width="350px" height="200px" alt="giphy" align="right" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
@@ -104,6 +106,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws" />
 </div> <br><br><br><br><br>
 
 
@@ -115,7 +119,7 @@
 
 
 <div align="center">
-
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=csenguyenminhphuc" />
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=csenguyenminhphuc&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentagec" />
 <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=csenguyenminhphuc&theme=github&utcOffset=7" />
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csenguyenminhphuc&layout=donut" />
