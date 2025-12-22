@@ -1,17 +1,12 @@
 
 <h1 align="center" href="https://git.io/typing-svg">
   <img src="http://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=24&duration=2000&pause=1000&color=00FF24&width=440&height=40&lines=Hey+There%F0%9F%91%8B+I'M+NGUYEN+MINH+PHUC" alt="Typing SVG" />
-  
 </h1>
-
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/csenguyenminhphuc.png" width="100%" alt="TryHackMe">
+ 
   <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/giphy2.gif"  alt="giphy" />
-  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/git.gif" height="170" alt="giphy" />
+  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/git.gif" height="170" alt="giphy " />
 </p>
-
-
-
 
 <div align="center">
   
@@ -19,7 +14,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/csenguyenminhphuc/csenguyenminhphuc/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/csenguyenminhphuc/csenguyenminhphuc/output/snake.svg" width="100%" alt="Snake animation" />
 
 
 
@@ -28,38 +23,42 @@
 <h1 align="left">👩‍💻  About Me</h1> 
 
 ###
-<table>
-  <tr>
-    <td style="vertical-align: middle; width: 70%;">
+
+<p align="center">
+   <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/giphy.gif?raw=true" width="300px" alt="giphy" />
+</p>
       - 🔭 I’m a DevSecOps and infrastructure Engineer <br>
-      - Mình rất đam mê máy tính <br>
-      - 👨‍💻 Đang học lập trình và phát triển phần mềm <br>
-      - 🚀 Mục tiêu của tôi là trở thành một Kỹ sư Koa hoc Máy tính <br>
+      - 👨‍💻 Mình đang học lập trình và phát triển phần mềm <br>
+      - 🚀 Mục tiêu của tôi là trở thành một Kỹ sư Khoa hoc Máy tính <br>
       - 📚 Tôi yêu học hỏi và luôn tìm cách nâng cao kỹ năng của mình <br>
       - 🌱 Hiện tại đang tìm hiểu về trí tuệ nhân tạo (AI), Network, Cloud, System, Security....  <br>
       - 💡 Sở thích của tôi là khám phá công nghệ mới và xây dựng các dự án cá nhân <br>
       - 🧑‍🤝‍🧑 Thích tham gia vào các cộng đồng lập trình và chia sẻ kiến thức với mọi người <br>
       - 🎯 Mục tiêu trong năm nay là hoàn thành một số dự án mã nguồn mở và đóng góp cho cộng đồng lập trình <br>
-    </td>
-    <td style="vertical-align: middle; width: 30%;">
-      <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/giphy.gif?raw=true" width="200px" alt="giphy" />
-    </td>
-  </tr>
-</table>
 
 
 
 ###
 
-<h1 align="left">
-  
-  🛠 Language and tools
-  
-</h1>
+<h1 align="left">🏆 Certificate</h1> 
 
 ###
+- <a href="https://tryhackme.com/p/csenguyenminhphuc?tab=certificates" target="_blank">TryHackMe</a><br>
+- <a href="https://www.coursera.org/user/8bbae3782c118ab4ebfecc4b9bcf5372" target="_blank">Coursera</a><br>
+- <a href="https://www.credly.com/users/csenguyenminhphuc" target="_blank">Credly</a><br>
+      
+      
+      
+
+
+###
+
+<h1 align="left"> 🛠 Language and tools</h1>
+
+###
+
 <p align="center">
-  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/discord-hacking.gif" width="400px" height="250px" alt="giphy" />
+  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/discord-hacking.gif" width="350px" height="250px" alt="giphy" />
 </p>
 
 <div align="center">
