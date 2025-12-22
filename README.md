@@ -24,9 +24,7 @@
 
 ###
 
-<p align="center">
-   <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/giphy.gif?raw=true" width="300px" alt="giphy" />
-</p>
+   <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/giphy.gif?raw=true" width="300px" alt="giphy" align="right" />
       - 🔭 I’m a DevSecOps and infrastructure Engineer <br>
       - 👨‍💻 Mình đang học lập trình và phát triển phần mềm <br>
       - 🚀 Mục tiêu của tôi là trở thành một Kỹ sư Khoa hoc Máy tính <br>
@@ -35,8 +33,6 @@
       - 💡 Sở thích của tôi là khám phá công nghệ mới và xây dựng các dự án cá nhân <br>
       - 🧑‍🤝‍🧑 Thích tham gia vào các cộng đồng lập trình và chia sẻ kiến thức với mọi người <br>
       - 🎯 Mục tiêu trong năm nay là hoàn thành một số dự án mã nguồn mở và đóng góp cho cộng đồng lập trình <br>
-
-
 
 ###
 
@@ -48,20 +44,15 @@
 - <a href="https://www.credly.com/users/csenguyenminhphuc" target="_blank">Credly</a><br>
       
       
-      
-
-
 ###
 
 <h1 align="left"> 🛠 Language and tools</h1>
 
 ###
 
-<p align="center">
-  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/discord-hacking.gif" width="350px" height="250px" alt="giphy" />
-</p>
+  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/discord-hacking.gif" width="350px" height="250px" alt="giphy" align="left" />
 
-<div align="center">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
@@ -113,11 +104,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-</div>
+</div> <br><br><br><br><br>
+
 
 ###
 
+<h1 align="left"> 📊 GitHub Analytics</h1>
+
+###
+
+
 <div align="center">
+<img height="200" src="https://streak-stats.demolab.com?user=csenguyenminhphuc" />
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=csenguyenminhphuc&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentagec" />
 <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=csenguyenminhphuc&theme=github&utcOffset=7" />
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csenguyenminhphuc&layout=donut" />
@@ -125,4 +123,3 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csenguyenminhphuc&theme=github" />
 </div>
 
-###
