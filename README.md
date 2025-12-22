@@ -50,9 +50,9 @@
 
 ###
 
-  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/discord-hacking.gif" width="350px" height="250px" alt="giphy" align="left" />
+  <img src="https://github.com/csenguyenminhphuc/csenguyenminhphuc/blob/main/gif/discord-hacking.gif" width="350px" height="250px" alt="giphy" align="right" />
 
-<div align="right">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
@@ -115,7 +115,7 @@
 
 
 <div align="center">
-<img height="200" src="https://streak-stats.demolab.com?user=csenguyenminhphuc" />
+
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=csenguyenminhphuc&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentagec" />
 <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=csenguyenminhphuc&theme=github&utcOffset=7" />
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csenguyenminhphuc&layout=donut" />
