@@ -124,6 +124,6 @@
 <img height="200" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=csenguyenminhphuc&theme=github&utcOffset=7" />
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csenguyenminhphuc&layout=donut" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=csenguyenminhphuc&radius=16&theme=github-compact&area=true&order=5" alt="activity-graph graph"  /> 
-<img width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csenguyenminhphuc&theme=github" />
+<img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=csenguyenminhphuc&theme=github" />
 </div>
 
